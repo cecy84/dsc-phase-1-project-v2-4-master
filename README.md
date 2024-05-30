@@ -55,15 +55,19 @@ Ensured that only numeric columns were used for correlation and regression analy
 In this bit the focus was more on descriptive analysis rather than building predictive models. Here's an outline of the approach taken for analyzing the data: The analysis focused on identifying attributes associated with box office and TMDb success, aligning with the business problem of guiding Microsoft's movie studio in selecting film types.
 
 Analysis Approach:
-Exploratory Data Analysis (EDA): Utilized statistical and visualization techniques to understand the distribution of variables, identify trends, and uncover patterns in successful movies.
+1. Exploratory Data Analysis (EDA): Utilized statistical and visualization techniques to understand the distribution of variables, identify trends, and uncover patterns in successful movies.
 
+2. Correlation and Patterns: Investigated relations among variables to identify relationships that contribute to a movie's success .
 
-Correlation and Patterns: Investigated relations among variables to identify relationships that contribute to a movie's success at the box office.
-
-The insights derived from the analysis can serve as valuable guidance for Microsoft's movie studio in making informed decisions.
-Implementing strategies aligned with these insights could potentially increase the studio's chances of creating successful movies that resonate with audiences.
-## Correlation Matrix
 ![Correlation Matrix](correlation_matrix.png)
+
+Here is a breakdown and key Insights from the Correlation Matrix
+
+For the Domestic and Foreign Gross Correlation the coefficient is 0.75
+Insight: High correlation indicates that movies that perform well domestically also tend to perform well internationally. This highlights the importance of producing content with broad appeal.
+
+For the Total Gross and Domestic Gross the coefficient is 0.90
+Insight: Very strong correlation, showing that domestic performance is a significant component of total gross. This suggests focusing on strategies that enhance domestic market performance.
 
 The heatmap above shows the correlation between various numerical variables in the dataset. Notably, domestic gross and total gross have a strong positive correlation, indicating the importance of domestic market performance in overall success.
 
