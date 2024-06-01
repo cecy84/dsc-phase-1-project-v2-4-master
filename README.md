@@ -59,7 +59,7 @@ Analysis Approach:
 
 2. Correlation and Patterns: Investigated relations among variables to identify relationships that contribute to a movie's success .
 
-![Correlation Matrix](correlation_matrix.png)
+![Correlation Matrix](correlationmatrix.png)
 
 Here is a breakdown and key Insights from the Correlation Matrix
 
@@ -74,9 +74,33 @@ The heatmap above shows the correlation between various numerical variables in t
 
 
 ### Visualizations
-- **Correlation Matrix**: Shows relationships between key variables.
-- **Scatter Plots**: Visualize relationships between budget, popularity, vote average, and total gross.
-- **Bar Plots**: Display average gross by genre and top 10 performing movies.
+## Evaluation of the Top performing movies
+The bar plot below displays the average total gross revenue (in millions) for movies across various genres.
+Each bar represents a genre, with the length of the bar indicating the average total gross for movies within that genre. 
+
+![Average Gross by Genre](AverageGrossbygenre.png)
+From the plot here are the key insights:
+Adventure: This genre leads in average gross revenue, indicating high market demand and profitability.
+Animation: Close behind Adventure, Animation movies also show significant revenue potential.
+Science Fiction and Fantasy: These genres follow, suggesting strong interest and financial returns.
+Family and Action: These genres are also prominent, highlighting their appeal to wide audiences.
+Western, Comedy, War, and TV Movie: These genres, while still profitable, show relatively lower average gross revenues.
+
+## Popularity vs. Total Gross Scatter plot
+
+Description:
+
+The scatter plot illustrates the relationship between a movie's popularity and its total gross revenue.
+Each dot represents a movie, with the x-axis showing its popularity score and the y-axis showing its total gross revenue (in millions).
+Key Insights:
+
+Positive Correlation: There's a positive trend, indicating that higher popularity scores generally correlate with higher total gross revenues.
+Wide Distribution: Movies with lower popularity scores have a wide range of total gross values, suggesting other factors also play significant roles in determining total revenue.
+Outliers: Several movies with very high total gross revenues have moderate popularity scores, indicating strong box office performance despite not being the most popular.
+
+ **Scatter Plots**: Visualize relationships between budget, popularity, vote average, and total gross.
+
+
 
 ## Insights and Recommendations
 - **Top Genres**: Action, Adventure, Animation, Family.
