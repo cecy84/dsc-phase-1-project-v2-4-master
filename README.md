@@ -122,21 +122,50 @@ We went further to identify the key predictors which are Budget and Popularity. 
 ### Recommendations
 As a reult of my work I would recommend Microsoft to implement the following steps as they would aid in Microsoft successful venture into creation of video content
 
-**Focus on High-Grossing Genres**
+1. **Focusing  on High-Grossing Genres**
 Microsoft should prioritize producing Adventure, Animation, Science Fiction, and Fantasy films to maximize revenue potential.
 
-**Enhance Marketing Efforts**
+2. **Enhancing Marketing Efforts**
 They should Invest in marketing strategies to boost movie popularity, as higher popularity generally leads to higher gross revenues.
  they should also utilize social media campaigns, influencer partnerships, and interactive promotions to engage audiences.
 
-**Strategic Budget Allocation**
+3. **Strategic Budget Allocation**
 From our analysis we have seen that the higher the production budget , the higher the worldwide gross which is the earnings from the video content therefore it is important for Microsoft to consider strategic investments in or acquisitions of larger studios or even content from them to capitalize on their existing success and market presence and to build a diverse and successful movie portfolio .
 
-**Engage Domestic and International Markets**
+4. **Engage Domestic and International Markets**
 Microsoft should also focus  on domestic market performance as it strongly correlates with overall success.They should also develop international marketing strategies to tap into global audiences and maximize foreign gross revenues.
 
-**Monitoring  Market Trends**
+5. **Monitoring  Market Trends**
 Microsoft should continuously analyze market trends and audience preferences to adapt strategies and maintain competitive advantage and also to make informed decisions and adapt to its strategies for sustained success as things change and the preferences evolve with time.
+
+## Limitations
+Some of the reasons my analysis might not fully solve the business problem are highlighted below:
+
+1. **Data Completeness** 
+In the dataset some movies may have incomplete data for key variables such as budget, vote counts, or popularity, potentially skewing the analysis.
+
+Also reliance on Box Office Mojo and TMDb means the analysis is limited to the data available from these sources, which may not capture all relevant information.
+
+2. **Correlation vs. Causation**
+High correlation between variables (e.g., popularity and total gross) does not imply causation. Other underlying factors might influence these relationships and should also been put into considaration before any decisions are made 
+
+3. **Generalizability**
+On Genre and Market Trends The success of certain genres might be influenced by current trends, which can change over time, affecting the generalizability of the findings.
+
+4. **External Factors**
+Not putting into considearions Factors such as economic conditions, competition, and marketing effectiveness can impact movie performance but are not captured in the datasets used.
+
+5.**Audience Preferences**
+Dynamic Preferences: Audience tastes and preferences evolve, making it challenging to predict long-term success based on historical data alone.
+
+## Next Steps
+To address these limitations, consider:
+
+1. Continuously updating the datasets and models with new data.
+
+2. Incorporating additional data sources for a more comprehensive analysis.
+
+3. Using a combination of qualitative and quantitative methods to understand the factors influencing movie success.
 
 
 ## License
