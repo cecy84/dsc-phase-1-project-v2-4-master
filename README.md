@@ -82,11 +82,11 @@ Each bar represents a genre, with the length of the bar indicating the average t
 
 From the plot here are the key insights:
 
-*Adventure: This genre leads in average gross revenue, indicating high market demand and profitability.
-*Animation: Close behind Adventure, Animation movies also show significant revenue potential.
-*Science Fiction and Fantasy: These genres follow, suggesting strong interest and financial returns.
-*Family and Action: These genres are also prominent, highlighting their appeal to wide audiences.
-*Western, Comedy, War, and TV Movie: These genres, while still profitable, show relatively lower average gross revenues.
+**Adventure**- This genre leads in average gross revenue, indicating high market demand and profitability.
+**Animation**- Close behind Adventure, Animation movies also show significant revenue potential.
+**Science Fiction and Fantasy**- These genres follow, suggesting strong interest and financial returns.
+**Family and Action**- These genres are also prominent, highlighting their appeal to wide audiences.
+Western, Comedy, War, and TV Movie: These genres, while still profitable, show relatively lower average gross revenues.
 
 ## Popularity vs. Total Gross Scatter plot
 The scatter plot below illustrates the relationship between a movie's popularity and its total gross revenue.
@@ -96,19 +96,48 @@ Each dot represents a movie, with the x-axis showing its popularity score and th
 
 From the plot here are the key Insights:
 
-*Positive Correlation- There's a positive trend, indicating that higher popularity scores generally correlate with higher total gross revenues.
-*Wide Distribution- Movies with lower popularity scores have a wide range of total gross values, suggesting other factors also play significant roles in determining total revenue.
-*Outliers- Several movies with very high total gross revenues have moderate popularity scores, indicating strong box office performance despite not being the most popular.
+**Positive Correlation**- There's a positive trend, indicating that higher popularity scores generally correlate with higher total gross revenues.
+**Wide Distribution**- Movies with lower popularity scores have a wide range of total gross values, suggesting other factors also play significant roles in determining total revenue.
+**Outliers**- Several movies with very high total gross revenues have moderate popularity scores, indicating strong box office performance despite not being the most popular.
 
 
 
 ## Insights and Recommendations
-- **Top Genres**: Action, Adventure, Animation, Family.
-- **High Production Value**: Invest in quality production, renowned directors, and star-studded casts.
-- **Franchise Potential**: Develop or acquire intellectual properties with potential for sequels.
-- **Audience Engagement**: Focus on compelling storytelling and engaging characters.
-- **Genre Blending**: Experiment with genre combinations for broader appeal.
-- **Global Appeal**: Create films that resonate with international audiences to maximize revenue.
+### Insights
+From the analysis these are some of the insights 
+
+**On genre performance**
+Adventure and Animation took the  lead in average gross revenue, suggesting high market demand and profitability.
+Science Fiction and Fantasy- also showed  significant revenue potential, indicating strong audience interest.
+
+**In terms of popularity and revenue**
+Positive Correlation- Higher popularity scores generally correlate with higher total gross revenues, emphasizing the importance of marketing and audience engagement.
+Wide Distribution- Movies with lower popularity scores have a wide range of total gross values, highlighting the influence of other factors.
+
+**Domestic and International Success**
+Strong Correlation-  Domestic gross strongly correlated with total gross, indicating that successful domestic performance is crucial for overall success.
+
+We went further to identify the key predictors which are Budget and Popularity. The two were identified as significant predictors of total gross, emphasizing the importance of strategic budget allocation and marketing efforts.
+
+### Recommendations
+As a reult of my work I would recommend Microsoft to implement the following steps as they would aid in Microsoft successful venture into creation of video content
+
+**Focus on High-Grossing Genres**
+Microsoft should prioritize producing Adventure, Animation, Science Fiction, and Fantasy films to maximize revenue potential.
+
+**Enhance Marketing Efforts**
+They should Invest in marketing strategies to boost movie popularity, as higher popularity generally leads to higher gross revenues.
+ they should also utilize social media campaigns, influencer partnerships, and interactive promotions to engage audiences.
+
+**Strategic Budget Allocation**
+From our analysis we have seen that the higher the production budget , the higher the worldwide gross which is the earnings from the video content therefore it is important for Microsoft to consider strategic investments in or acquisitions of larger studios or even content from them to capitalize on their existing success and market presence and to build a diverse and successful movie portfolio .
+
+**Engage Domestic and International Markets**
+Microsoft should also focus  on domestic market performance as it strongly correlates with overall success.They should also develop international marketing strategies to tap into global audiences and maximize foreign gross revenues.
+
+**Monitoring  Market Trends**
+Microsoft should continuously analyze market trends and audience preferences to adapt strategies and maintain competitive advantage and also to make informed decisions and adapt to its strategies for sustained success as things change and the preferences evolve with time.
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
