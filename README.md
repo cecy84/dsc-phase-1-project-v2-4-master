@@ -178,6 +178,38 @@ To address these limitations, consider:
 
 3. Using a combination of qualitative and quantitative methods to understand the factors influencing movie success.
 
+## 5. Getting Started
+1. **Clone the Repository**:
+    ```sh
+    git clone https://github.com/your-username/your-repository.git
+    cd your-repository
+    ```
+
+2. **Install Dependencies**:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+3. **Run the Analysis**:
+    Open the Jupyter Notebook and run the cells to perform the analysis and generate visualizations.
+
+##  Navigating the Repository
+
+### Folder Structure
+- **/Zippeddata**: Contains the datasets used for the analysis.
+  - `bom.movie_gross.csv.gz`: Box Office Mojo dataset.
+  - `tmdb.movies.csv.gz`: TMDb dataset.
+- **/images**: Contains images used in the README and for visualization.
+  - `correlation_matrix.png`: Heatmap of correlation matrix.
+  - `AverageGrossbygenre.png`: Bar plot of average gross by genre.
+  - `scatter_popularity_vs_total_gross.png`: Scatter plot of popularity vs. total gross.
+- **/notebooks**: Jupyter notebooks for data analysis and visualization.
+  - `student.ipynb`: Main notebook containing the analysis.
+- **README.md**: Project documentation and instructions.
+
+### Key Files
+- `requirements.txt`: List of dependencies required to run the analysis.
+- `LICENSE`: License information for the project.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
