@@ -1,4 +1,5 @@
 # Microsoft Movie Studio Analysis
+![Alt Text](C:\Users\USER\Desktop\Phase_1_Project\dsc-phase-1-project-v2-4-master\WhatsApp Image 2024-06-03 at 8.50.58 AM.png.png)
 
 ## Problem Statement
 Microsoft plans to launch a new movie studio to compete in the original video content market. However, they lack expertise in film production and need data-driven insights to make informed decisions. This project aims to analyze box office performance and identify key factors contributing to movie success. By leveraging datasets from Box Office Mojo and TMDb, the goal is to determine which genres, budget allocations, and marketing strategies are most effective. These insights will guide Microsoft's content creation strategy, ensuring the new studio produces commercially successful films.
@@ -144,7 +145,7 @@ Some of the reasons my analysis might not fully solve the business problem are h
 1. **Data Completeness** 
 In the dataset some movies may have incomplete data for key variables such as budget, vote counts, or popularity, potentially skewing the analysis.
 
-Also reliance on Box Office Mojo and TMDb means the analysis is limited to the data available from these sources, which may not capture all relevant information.
+   Also reliance on Box Office Mojo and TMDb means the analysis is limited to the data available from these sources, which may not capture all relevant information.
 
 2. **Correlation vs. Causation**
 High correlation between variables (e.g., popularity and total gross) does not imply causation. Other underlying factors might influence these relationships and should also been put into considaration before any decisions are made 
