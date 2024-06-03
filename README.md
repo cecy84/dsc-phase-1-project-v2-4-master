@@ -1,5 +1,5 @@
 # Microsoft Movie Studio Analysis
-![Alt Text](C:\Users\USER\Desktop\Phase_1_Project\dsc-phase-1-project-v2-4-master\WhatsApp Image 2024-06-03 at 8.50.58 AM.png.png)
+![Alt Text](filmproduction.png)
 
 ## Problem Statement
 Microsoft plans to launch a new movie studio to compete in the original video content market. However, they lack expertise in film production and need data-driven insights to make informed decisions. This project aims to analyze box office performance and identify key factors contributing to movie success. By leveraging datasets from Box Office Mojo and TMDb, the goal is to determine which genres, budget allocations, and marketing strategies are most effective. These insights will guide Microsoft's content creation strategy, ensuring the new studio produces commercially successful films.
