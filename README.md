@@ -204,11 +204,10 @@ To address these limitations, consider:
   - `AverageGrossbygenre.png`: Bar plot of average gross by genre.
   - `scatter_popularity_vs_total_gross.png`: Scatter plot of popularity vs. total gross.
 - **/notebooks**: Jupyter notebooks for data analysis and visualization.
-  - `student.ipynb`: Main notebook containing the analysis.
+  - ``student.ipynb``: Main notebook containing the analysis.
 - **README.md**: Project documentation and instructions.
 
 ### Key Files
-- `requirements.txt`: List of dependencies required to run the analysis.
 - `LICENSE`: License information for the project.
 
 ## License
