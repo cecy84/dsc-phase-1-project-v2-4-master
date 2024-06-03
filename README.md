@@ -101,7 +101,16 @@ From the plot here are the key Insights:
 **Wide Distribution**- Movies with lower popularity scores have a wide range of total gross values, suggesting other factors also play significant roles in determining total revenue.
 **Outliers**- Several movies with very high total gross revenues have moderate popularity scores, indicating strong box office performance despite not being the most popular.
 
+## Scatter plot of vote average vs. total gross plot 
+![vote average vs. Total Gross](vote%20Average%20vs%20Totalgross.png)
 
+The Purpose -to explore the relationship between a movie's average viewer rating (vote average) and its total gross revenue.
+
+Importance to this problem solving 
+1. Audience Reception - Helps understand how critical acclaim (measured by vote average) impacts a movie’s financial success.
+
+2. Quality vs. Revenue
+Identifies whether higher-rated movies tend to generate more revenue, providing insights into the importance of quality and audience satisfaction.
 
 ## Insights and Recommendations
 ### Insights
@@ -119,6 +128,7 @@ Wide Distribution- Movies with lower popularity scores have a wide range of tota
 Strong Correlation-  Domestic gross strongly correlated with total gross, indicating that successful domestic performance is crucial for overall success.
 
 We went further to identify the key predictors which are Budget and Popularity. The two were identified as significant predictors of total gross, emphasizing the importance of strategic budget allocation and marketing efforts.
+
 
 ### Recommendations
 As a reult of my work I would recommend Microsoft to implement the following steps as they would aid in Microsoft successful venture into creation of video content
